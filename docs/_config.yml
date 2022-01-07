@@ -21,12 +21,10 @@
 title: Coding & Ningkun Zhou
 email: nzhou26@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Ningkun Zhou, a programmer with biology background. Sometimes I sit and write some code, and
+  sometimes I just sit. Coding is probably the only way to save humanity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nzhou26.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  nzhou26
 
 # Build settings

