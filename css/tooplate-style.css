@@ -71,7 +71,8 @@ a:focus {
 	right: 0;
 	top: 0;
 	z-index: 1002;
-	background-color: rgba(42, 59, 85, 0.8);
+	/* background-color: rgba(42, 59, 85, 0.8); */
+	background-color: #0d264e;
 	height: 50px;
 }
 
@@ -187,19 +188,19 @@ button:focus { outline: none; }
 }
 
 .tm-home-title-container {
-	background-color: #856729;
+	background-color: #dead52;
 	border: 1px solid white;
 	margin-bottom: 0;
 	padding: 30px;
 }
 
-.tm-bg-dark-blue { background-color: #1A2D4B; }
+.tm-bg-dark-blue { background-color: #0d264e; }
 .tm-bg-white { 
 	background-color: white; 
 	color: black;
 }
-.tm-bg-brown { background-color: #856729; }
-.tm-bg-dark-brown { background-color: #5a471c; }
+.tm-bg-brown { background-color: #dead52; }
+.tm-bg-dark-brown { background-color: #dead52; }
 .tm-home-description-container { padding: 50px; }
 
 .tm-home-container-bg {
@@ -314,7 +315,7 @@ button:focus { outline: none; }
 .form-group { margin-bottom: 1.5rem; }
 
 .tm-submit-btn {
-	background-color: #856729;
+	background-color: #dead52;
 	border: none;
 	color: white;
 	padding: 10px 50px;
@@ -326,7 +327,8 @@ button:focus { outline: none; }
 .tm-submit-btn:hover,
 .tm-submit-btn:focus,
 .tm-submit-btn:active {
-	background-color: rgb(176, 138, 59);
+	/* background-color: rgb(176, 138, 59); */
+	background-color: #dead52;
 }
 
 textarea { height: 168px; }
