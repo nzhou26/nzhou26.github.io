@@ -160,7 +160,9 @@ button:focus { outline: none; }
 /* Hero Slider */
 .cd-hero-slider { height: 100vh; }
 .cd-hero-slider li { list-style: none; }
-.tm-textbox { display: inline-block; }
+.tm-textbox { 
+	display: inline-block; 
+}
 
 .cd-hero-slider h2, .cd-hero-slider p {
 	max-width: none;
