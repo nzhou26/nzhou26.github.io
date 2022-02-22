@@ -15,6 +15,47 @@ body {
 	overflow-x: hidden;
 }
 
+
+/* added contents */
+.education {
+	position: relative;
+	left: 16px;
+	width: 450px;
+	height: 27px;
+	font-size: 20px;
+	font-family: Segoe UI;
+	font-weight: 400;
+	line-height: 27px;
+	color: #FFFFFF;
+	opacity: 1;
+	line-break: auto;
+}
+.education span{
+	color:#9EC3FF
+}
+.year{
+	color: #9EC3FF;
+	font-weight: bold;
+}
+.college{
+	position: relative;
+	top: 20px;
+}
+.major{
+	position: relative;
+	top: 27px;
+}
+.minor{
+	position: relative;
+	top: 34px;
+}
+.courses{
+	position: relative;
+	top: 41px;
+}
+/* added_contents_end */
+
+
 .cd-bg-video-wrapper {
 	background: none;
 	position: fixed;
@@ -600,7 +641,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.cd-hero-slider p { margin-bottom: 30px; }	
 	.cd-hero-slider p:last-child { margin-bottom: 0; }
 	.cd-hero-slider .cd-full-width { padding-top: 0; }
-	.cd-hero-slider .tm-text { font-size: 1.1em; }	
+	.cd-hero-slider .tm-text { font-size: 1.1em;}	
 }
 
 @media only screen and (min-width: 1333px) {
