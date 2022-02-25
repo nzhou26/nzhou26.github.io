@@ -302,6 +302,9 @@ button:focus { outline: none; }
     font-size: 1.6em;
     font-weight: 400;
 }
+.tm-text-title span{
+	font-weight: bold;
+}
 
 /* About */
 .tm-white-header-container { width: 100%; }
