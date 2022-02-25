@@ -20,7 +20,7 @@ body {
 .education {
 	position: relative;
 	left: 16px;
-	width: 450px;
+	width: 420px;
 	height: 27px;
 	font-size: 20px;
 	font-family: Segoe UI;
@@ -39,19 +39,39 @@ body {
 }
 .college{
 	position: relative;
-	top: 20px;
+	top: 15px;
 }
 .major{
 	position: relative;
-	top: 27px;
+	top: 22px;
 }
 .minor{
 	position: relative;
-	top: 34px;
+	top: 29px;
 }
 .courses{
 	position: relative;
-	top: 41px;
+	top: 36px;
+}
+.band{
+	position: relative;
+	top: 170px;
+}
+.gibh{
+	position: relative;
+	top: 15px;
+}
+.bioland{
+	position: relative;
+	top: 80px
+}
+.duties{
+	position: relative;
+	top: 110px
+}
+.PS{
+	position: relative;
+	top: 185px;
 }
 /* added_contents_end */
 
@@ -86,13 +106,24 @@ body {
 ul { padding: 0; margin: 0; }
 figure { margin: 0; }
 p:last-child { margin-bottom: 0; }
-a { color: #3f97c9; }
-a, button { transition: all 0.3s ease; }
-a:hover,
-a:focus {
+
+a, button { 
+	transition: all 0.3s ease; 
+	color: lightgreen;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3498db;
+	background-color: transparent;
+	text-decoration: underline;
+  }
+  
+/* a:focus {
 	text-decoration: none;
 	outline: none;
-}
+} */
 
 .tm-section-margin-t { margin-top: 200px; }
 .tm-section-margin-t-small { margin-top: 150px; }
@@ -217,6 +248,9 @@ button:focus { outline: none; }
 .cd-hero-slider .tm-text { 
 	font-size: 1em;
 	line-height: 1.8; 
+}
+.tm-text span{
+	font-weight: bold;
 }
 
 .tm-home-container {
@@ -549,7 +583,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 }
 
 .tm-sm-margin-b { margin-bottom: 30px; }
-.tm-2-col-equal-height { height: 77%; }
+.tm-2-col-equal-height { height: 450px; }
 
 @media only screen and (min-width: 768px) {
 
