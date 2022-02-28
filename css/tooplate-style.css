@@ -511,7 +511,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 .grid-item:last-child { margin-bottom: 0; }
 
 .tm-img-gallery {
-	margin: 0 auto 10px;
+	margin: 0 auto 70px;
 	display: inline-block;
 }
 
@@ -660,7 +660,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	}
 
 	.cd-slider-nav a.navbar-brand {	margin-top: -20px; }
-	.grid-item { width: 33.3333%; }
+	.grid-item { width: 100%; }
 	.grid-item-big { width: 50%; }
 	.grid-item-square { width: 25%; }
 }
